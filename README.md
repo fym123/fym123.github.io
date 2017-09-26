@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![GitHub Logo](https://fym123.github.io /IMG_0360.JPG)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
