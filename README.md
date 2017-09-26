@@ -17,11 +17,18 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+#移动APP专业安排
 1. 计算机基础
 2. office办公自动化
 3.计算机组装与维修
 4.Photoshop
+5.Dreamweaver
+6.div+css
+7.html5+css3.0
+8.cms帝国的管理
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
