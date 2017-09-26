@@ -18,13 +18,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. 计算机基础
+2. office办公自动化
+3.计算机组装与维修
+4.Photoshop
 
 **Bold** and _Italic_ and `Code` text
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
