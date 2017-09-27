@@ -27,8 +27,7 @@ Syntax highlighted code block
 7.html5+css3.0
 8.cms帝国的管理
 
-
-（http://a2.qpic.cn/psb?/V11InY1z2sZScH/mfqRFR2pLlXjpKAmLyffGTezWzEFRKNiHf0Ap.2tztY!/b/dDwBAAAAAAAA&bo=wQOAAgAAAAARB3A!&rf=viewer_4）
+[--imges--]（http://a2.qpic.cn/psb?/V11InY1z2sZScH/mfqRFR2pLlXjpKAmLyffGTezWzEFRKNiHf0Ap.2tztY!/b/dDwBAAAAAAAA&bo=wQOAAgAAAAARB3A!&rf=viewer_4）
 
 **Bold** and _Italic_ and `Code` text
 
